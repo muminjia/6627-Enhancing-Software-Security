@@ -33,3 +33,8 @@ Data Modeling techniques
 Software development
 Python's ML ecosystem
 However, it's important to note that prior knowledge in these areas is not mandatory. Students will be encouraged to research and acquire knowledge in these domains as the project progresses.
+
+## ABOUT THE ORGANIZATION
+https://ml4cyber.com/
+
+Our information society is driven by software created by organizations in the private and public sector. These software applications are rarely perfect. They often contain cyber security vulnerabilities (software “bugs”) which when exploited by malicious attackers can lead to dangerous intrusions of computer systems. We have developed a high-reliability, automated approach to analyzing software code for vulnerabilities that is a leap forward in technology when compared to competing commercial solutions. We propose an efficient Machine Learning approach to identify both true positives and false positives with very high accuracy: greater than 90%. This valuable solution reduces the time required to find vulnerabilities by a factor of ten (10) or more, and the results are highly reliable.
