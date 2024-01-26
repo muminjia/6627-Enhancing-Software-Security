@@ -1,4 +1,4 @@
-# 6627-Enhancing-Software-Security
+# Enhancing Software Security: Leveraging Machine Learning and Data Modeling Techniques for Vulnerability Analysis
 ## Project Scope
 ### WHAT IS THE MAIN GOAL FOR THIS PROJECT?
 We are seeking collaboration with students to utilize cutting-edge AI, machine learning, and data modeling techniques in enhancing our existing prototype. The project aims to identify true and false positive cyber security vulnerabilities and accurately assess risk by analyzing Static Code Analysis Tool results.
